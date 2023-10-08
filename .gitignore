@@ -1,0 +1,4 @@
+*.txt
+*.csv
+*.toml
+venv/*
